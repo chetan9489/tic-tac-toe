@@ -1,1 +1,1 @@
-This is a 2 player TIC-TAC-TOE game made in python
+This is a 2 player TIC-TAC-TOE game made in python 3
